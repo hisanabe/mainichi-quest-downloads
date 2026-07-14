@@ -1,13 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.2",
-  "versionCode": 3,
+  "version": "1.0.0",
+  "versionCode": 1,
   "minimumVersionCode": 1,
   "channel": "public-debug",
-  "packageName": "jp.mainichiquest.app",
-  "apkUrl": "https://github.com/hisanabe/mainichi-quest-downloads/releases/latest/download/mainichi-quest.apk",
-  "sha256": "efd031e9df67753aaf6fa380c7997b354534964ce8d36ade0a23c9fbda5a7a80",
+  "packageName": "jp.studay.app",
+  "apkUrl": "https://github.com/hisanabe/studay-downloads/releases/latest/download/studay.apk",
+  "sha256": "3f99b29039821303a446c6cc365e700bec3595064a04cb097477ea91ce6f7df7",
   "signingCertificateSha256": "14a4d8af4e59e9bbc0a311dcba789ed6b2ac1c54eaecc9d1a5f6db23142dd86c",
-  "releasedAt": "2026-07-14T08:18:49.876Z",
-  "rollbackVersion": "1.0.1"
+  "releasedAt": "2026-07-14T10:31:34.424Z"
 }
